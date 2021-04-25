@@ -1,8 +1,6 @@
 package com.example.client_app;
 
-
 import android.app.Activity;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;

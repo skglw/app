@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 
@@ -16,6 +15,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login_activity);
     }
+
     public void on_login_click(View v)
     {
         String name = ((EditText) findViewById(R.id.txt_name)).getText().toString();
