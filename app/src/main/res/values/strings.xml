@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">client</string>
+    <string name="lab_name">name:</string>
+    <string name="lab_secret">secret:</string>
+    <string name="btn_login">login</string>
+</resources>
